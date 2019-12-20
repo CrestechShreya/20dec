@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>1958B66D3DDBEB546864872D576BA372</Name>
+      <Value>Project Workspace/Func1.okfl</Value>
+    </ImportSectionDTO>
+    <ImportSectionDTO>
+      <Name>0EAFC7BFB6F19D4AA26A0BFE46B505F7</Name>
+      <Value>Project Workspace/gttgg.okfl</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>1958B66D3DDBEB546864872D576BA372</Component_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs />
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>0EAFC7BFB6F19D4AA26A0BFE46B505F7</Component_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs />
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
