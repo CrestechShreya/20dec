@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>20AC4A57CD3A801973B174F2CFC16370</Name>
+      <Value>Project Workspace/New Node 2019_12_21 08_19_06_169.okor</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/OpenBrowser</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Browser</Name>
+          <DataSource>ValueFromGlobalVariable</DataSource>
+          <GV_RelativePath>GlobalVariables/Default Browser</GV_RelativePath>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>URL</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">https://www.google.com/search?q=PAYTM&amp;oq=PAYTM&amp;aqs=chrome..69i57.9047j0j4&amp;sourceid=chrome&amp;ie=UTF-8</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/ClickLink</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>20AC4A57CD3A801973B174F2CFC16370/PAYTM - Google Search/Paytm.com – Recharge &amp; U</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SelectWindow</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Title</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments</StaticValue>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>TitleIndex</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:int">0</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SyncBrowser</Keyword_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/Click</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>20AC4A57CD3A801973B174F2CFC16370/Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments/DIV</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/TypeTextOnEditBox</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>20AC4A57CD3A801973B174F2CFC16370/Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments/INPUT</Obj_RelativePath>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>Value</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">room heat</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/Click</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>20AC4A57CD3A801973B174F2CFC16370/Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments/room heat</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SelectWindow</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Title</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">Buy room heater online @paytm.com</StaticValue>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>TitleIndex</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:int">0</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SyncBrowser</Keyword_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/Click</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>20AC4A57CD3A801973B174F2CFC16370/Buy room heater online @paytm.com/Room Heater</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>

@@ -90,5 +90,800 @@
       </ChildObjects>
       <Name>New node</Name>
     </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://www.google.com/search?q=PAYTM&amp;oq=PAYTM&amp;aqs=chrome..69i57.9047j0j4&amp;sourceid=chrome&amp;ie=UTF-8</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>PAYTM - Google Search</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://www.google.com/search?q=PAYTM&amp;oq=PAYTM&amp;aqs=chrome..69i57.9047j0j4&amp;sourceid=chrome&amp;ie=UTF-8</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Link</OpKeyType>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Paytm.com – Recharge &amp; Utility Payments, Entertainment ...\nhttps://paytm.com</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Paytm.com – Recharge</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>A</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>https://paytm.com/</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>href</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Paytm.com – Recharge &amp; U</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>33</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[@id='rso']/div[1]/div/div/div/div/div[1]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[2]/div[2]/div/div/div[1]/div/div/div/div/div[1]/a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>&lt;?xml version='1.0' encoding='UTF-8'?&gt;&lt;childproperties&gt;&lt;tag&gt;&lt;![CDATA[CITE]]&gt;&lt;/tag&gt;&lt;classname&gt;&lt;![CDATA[iUh30]]&gt;&lt;/classname&gt;&lt;innertext&gt;&lt;![CDATA[https://paytm.com]]&gt;&lt;/innertext&gt;&lt;childindex&gt;&lt;![CDATA[0]]&gt;&lt;/childindex&gt;&lt;xpathidrelative&gt;&lt;![CDATA[//div[@id='rso']/div[1]/div/div/div/div/div[1]/a/div/cite]]&gt;&lt;/xpathidrelative&gt;&lt;xpathposition&gt;&lt;![CDATA[//cite]]&gt;&lt;/xpathposition&gt;&lt;/childproperties&gt;</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>custom:childXml</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>div#rso &gt; div:first-of-type &gt; div &gt; div &gt; div &gt; div &gt; div:first-of-type &gt; a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>File Store/301e223f-345f-49e2-a1a2-3c329c8bd504</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Paytm.com – Recharge &amp; U</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>PAYTM - Google Search</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://paytm.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://paytm.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Div</OpKeyType>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>DIV</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>_3PqY</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>DIV</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>57</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[@id='app']/div/div[3]/div/div[1]/div/div/div/div</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[3]/div/div[1]/div/div/div/div</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>div#app &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:first-of-type &gt; div &gt; div &gt; div &gt; div</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>File Store/e0982a33-dd4d-4772-a0d4-5d8b67a01316</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>DIV</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>Text Field</OpKeyType>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>search</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[@id='app']/div/div[2]/div[2]/div[2]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//input[@type='search']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>div#app &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>File Store/9e71a5b0-306d-473e-bf5a-1fd8c7a74e69</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>INPUT</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>b</OpKeyType>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>room heat</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>room heat</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>B</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>room heat</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/ul[1]/li[1]/span/span/b</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//b</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>div#app &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; ul:first-of-type &gt; li:first-of-type &gt; span &gt; span &gt; b</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>File Store/6e5044f3-ad6a-4c8e-85f2-212a4027bbc6</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>room heat</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Paytm.com – Recharge &amp; Utility Payments, Entertainment, Travel, DTH, Wallet &amp; Payments</Name>
+    </ORObject>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://paytm.com/shop/search?q=room%20heater&amp;from=organic&amp;child_site_id=6&amp;site_id=2&amp;category=15594</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>Buy room heater online @paytm.com</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Value>https://paytm.com/shop/search?q=room%20heater&amp;from=organic&amp;child_site_id=6&amp;site_id=2&amp;category=15594</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Span</OpKeyType>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Room Heater</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Room Heater</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>SPAN</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>Room Heater</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>17</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/ul[2]/li[4]/span/span</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>//li[4]/span/span</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>div#app &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; ul:nth-of-type(2) &gt; li:nth-of-type(4) &gt; span &gt; span</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>File Store/deecda0a-8c13-42e8-8f25-95b1a85eb89a</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Room Heater</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>Buy room heater online @paytm.com</Name>
+    </ORObject>
   </ORObjects>
 </ObjectRepositorySchema>
